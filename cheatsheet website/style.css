@@ -1,0 +1,128 @@
+    .group-1 {
+        display: flex;
+        background-color: darkslategrey;
+        padding-bottom: 20px;
+        padding-top: 10px;
+        margin: 0px;
+    }
+    
+    .text-items {
+        margin-top: 45px;
+        padding-left: 50px;
+        font-size: 18px;
+        font-weight: bold;
+        color: deepskyblue;
+    }
+    
+    h1 {
+        padding-left: 60px;
+        margin-top: 35px;
+        color: white;
+    }
+    
+    button {
+        margin-top: 30px;
+        margin-left: 70px;
+        width: 250px;
+        border-radius: 20px;
+        height: 50px;
+        margin-right: 40px;
+        font-size: 16px;
+        padding-right: 30%;
+        outline: none;
+        color: deepskyblue;
+        background-color: dodgerblue;
+        cursor: pointer;
+    }
+    
+    .fa-flag {
+        color: white;
+        padding-right: 10px;
+    }
+    
+    .fa-search {
+        color: white;
+    }
+    
+    input {
+        display: flex;
+        width: 300px;
+        height: 60px;
+        text-align: center;
+        font-weight: bolder;
+        color: red;
+        border: 2px solid yellow;
+        margin-left: 50%;
+        background-color: blue;
+        font-size: 18px;
+    }
+    
+    .list {
+        padding-left: 10%;
+        color: white;
+        letter-spacing: 1.3px;
+        font-size: 20px;
+    }
+    
+    .learn {
+        margin-left: 80%;
+        margin-bottom: 45px;
+        font-size: 24px;
+        color: yellow
+    }
+    
+    .group-2 {
+        padding: 20px;
+        background-color: blue;
+    }
+    
+    b {
+        color: lightseagreen;
+    }
+    
+    .group-3 {
+        background-color: grey;
+        padding-top: 30px;
+        padding-bottom: 60px;
+        margin-bottom: 35px;
+    }
+    
+    #head2 {
+        font-size: 45px;
+    }
+    
+    .paragraph {
+        padding-left: 60px;
+        font-size: 20px;
+        color: white;
+    }
+    
+    h2 {
+        font-size: 35px;
+    }
+    
+    #head1 {
+        padding-left: 10%;
+        color: white;
+        letter-spacing: 1.3px;
+    }
+    
+    .view {
+        padding-left: 85%;
+        color: white;
+    }
+    
+    .plans {
+        padding-left: 10%;
+        font-size: 18px;
+        font-weight: bolder;
+        color: white;
+    }
+    
+    .fa {
+        font-size: 24px !important;
+    }
+    
+    body {
+        font-family: serif;
+    }
